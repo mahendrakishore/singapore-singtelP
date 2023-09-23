@@ -1,2 +1,1 @@
-# jpmchase
-jp morgan chase interview solution
+# singtel singapore
